@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Orteg\\Downloads\\TwoToFour-main\\TwoToFour.csproj",
+      "projectUniqueName": "C:\\Users\\Orteg\\Documents\\GitRepository\\TwoToFour\\TwoToFour\\TwoToFour.csproj",
       "projectName": "TwoToFour",
-      "projectPath": "C:\\Users\\Orteg\\Downloads\\TwoToFour-main\\TwoToFour.csproj",
+      "projectPath": "C:\\Users\\Orteg\\Documents\\GitRepository\\TwoToFour\\TwoToFour\\TwoToFour.csproj",
       "packagesPath": "C:\\Users\\Orteg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Orteg\\Downloads\\TwoToFour-main\\obj\\",
+      "outputPath": "C:\\Users\\Orteg\\Documents\\GitRepository\\TwoToFour\\TwoToFour\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Orteg\\AppData\\Roaming\\NuGet\\NuGet.Config"
